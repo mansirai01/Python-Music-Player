@@ -1,0 +1,5 @@
+python-vlc==3.0.11115
+pafy==0.5.5
+sqlparse==0.3.1
+beautifulsoup4==4.8.2
+urllib3==1.25.8
